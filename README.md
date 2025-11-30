@@ -1,5 +1,7 @@
 # Lethargy: The Apathetic Dream
 
+<img src="about/lethargy.png">
+
 ZX Spectrum game sources
 
 ## Credits
@@ -7,17 +9,18 @@ ZX Spectrum game sources
 **Idea, Graphics, Map**: Станислав Аристов (Stanislav Aristov) aka stanly/poltergejst <br>
 **Music**: Денис Покалюк (Denis Polalyuk) aka Fatal Snipe
 
+<img src="about/lethmenu.png"> <img src="about/leth0.png"> <img src="about/leth1.png">
+<img src="about/leth2.png"> <img src="about/leth3.png"> <img src="about/leth4.png"> 
+
 ## History
 **Lethargy: The Apathetic Dream** была представлена 23-24 августа 2003
 на CaFe2003 в Санкт-Петербурге.<br>
 Игра разрабатывалась в 2001-2003 годах на архитектуре ZX Spectrum
 (использовался эмулятор Unreal, настроенный эмулировать клон Quorum 1024Mb).
-Исходники написаны на ассемблере Alasm v4.44,
-в дополнение к обычным командам ассемблера Z80
-используются макрокоманды и некоторые другие улучшения.
+Исходники написаны на ассемблере Alasm v4.44.
 Кодировка текста в образах дискет: IBM866/CP866/DOS
 
-Исходники добыты из TRD-образов дискет и перевдены в текстовые файлы для того,
+Исходники добыты из TRD-образов дискет и переведены в текстовые файлы для того,
 чтобы зафиксировать этот момент в жизни.
 
 Читать код игры следует с главного файла HELL.H
