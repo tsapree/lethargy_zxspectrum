@@ -1,11 +1,11 @@
 # Lethargy: The Apathetic Dream
 
-Sources
+ZX Spectrum game sources
 
 ## Credits
-Code: Pavel Stakhov aka capry/tsapree/tsap ree, email: [tsapree@gmail.com], github: https://github.com/tsapree/
-Graphics: Stanislav Aristov aka stanly/poltergejst
-Music: Денис Покалюк aka Fatal Snipe
+**Code**: Павел Стахов (Pavel Stakhov) aka capry/tsapree, email: [tsapree@gmail.com], github: [https://github.com/tsapree/]  <br>
+**Idea, Graphics, Map**: Станислав Аристов (Stanislav Aristov) aka stanly/poltergejst <br>
+**Music**: Денис Покалюк (Denis Polalyuk) aka Fatal Snipe
 
 ## History
 **Lethargy: The Apathetic Dream** была представлена 23-24 августа 2003
@@ -26,3 +26,6 @@ Music: Денис Покалюк aka Fatal Snipe
 
 ps. Прошу прощения за некоторое количество ругательств в коде - 22 года назад
 мне это видимо казалось остроумным.
+
+pps. Также, спустя время депрессивный (а иногда даже желчный) тон игры и текстов вызывает
+некоторое недоумение, но что есть то есть.
