@@ -1,4 +1,6 @@
-# Source code of game Lethargy: The Apathetic Dream
+# Lethargy: The Apathetic Dream
+
+Sources
 
 ## Credits
 Code: Pavel Stakhov aka capry/tsapree/tsap ree, email: [tsapree@gmail.com], github: https://github.com/tsapree/
@@ -6,6 +8,8 @@ Graphics: Stanislav Aristov aka stanly/poltergejst
 Music: Денис Покалюк aka Fatal Snipe
 
 ## History
+**Lethargy: The Apathetic Dream** была представлена 23-24 августа 2003
+на CaFe2003 в Санкт-Петербурге.<br>
 Игра разрабатывалась в 2001-2003 годах на архитектуре ZX Spectrum
 (использовался эмулятор Unreal, настроенный эмулировать клон Quorum 1024Mb).
 Исходники написаны на ассемблере Alasm v4.44,
