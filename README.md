@@ -7,7 +7,7 @@ ZX Spectrum game sources
 ## Credits
 **Code**: Павел Стахов (Pavel Stakhov) aka capry/tsapree, email: [tsapree@gmail.com], github: [https://github.com/tsapree/]  <br>
 **Idea, Graphics, Map**: Станислав Аристов (Stanislav Aristov) aka stanly/poltergejst <br>
-**Music**: Денис Покалюк (Denis Polalyuk) aka Fatal Snipe
+**Music**: Денис Покалюк (Denis Pokalyuk) aka Fatal Snipe
 
 <img src="about/lethmenu.png"> <img src="about/leth0.png"> <img src="about/leth1.png">
 <img src="about/leth2.png"> <img src="about/leth3.png"> <img src="about/leth4.png"> 
